@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://hui50138.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,10 +24,12 @@ author:
   avatar           : "profile.png"
   name             : "Zhang Meiling"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Dr. Meiling Zhang is a Young Principal Investigator and Ph.D. supervisor. She received her Ph.D. from the School of Life Sciences, Peking University in 2020, followed by postdoctoral research at Peking University from 2020 to 2024. In 2024, she joined the Department of Zoology and Animal Physiology, College of Biological Sciences at China Agricultural University as a Principal Investigator through the university's talent recruitment program.
+
+Her research focuses on quantitative omics detection technologies for RNA chemical modifications and the function of modification enzymes. To date, she has published multiple papers as first/co-first author in prestigious journals including Nature Chemical Biology, Nature Immunology, Nature Reviews, Molecular Cell, Cell Research, and Accounts of Chemical Research."
   location         : "Beijing China"
   employer         : "China Agriculture University"
-  uri              : https://academicpages.github.io # URL
+  uri              : https://hui50138.github.io # URL
   email            : "ml_zhang@cau.edu.cn" 
 
   # Academic websites
