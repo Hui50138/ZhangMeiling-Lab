@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Young Principal Investigator, College of Biological Sciences, China Agricultural University, 2024-Present
+* Postdoctoral Fellow, School of Life Sciences, Peking University, 2020-2024
+* Ph.D. in Biology, School of Life Sciences, Peking University, 2020
+* B.S. in Biology, Ningxia University, 2015
 
 Work experience
 ======
