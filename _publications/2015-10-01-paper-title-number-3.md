@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+date: 2024
+venue: 'RNA'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Zhang, M., Zhang, X., Ma, Y., and Yi, C. (2024). &quot;New directions for Psi and m(1)A decoding in mRNA: deciphering the stoichiometry and function.&quot; <i>RNA</i>'
