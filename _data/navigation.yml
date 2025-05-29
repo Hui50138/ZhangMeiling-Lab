@@ -1,12 +1,16 @@
 main:
+  - title: "Research"
+    url: /markdown/
+  
   - title: "Publications"
     url: /publications/
-        
-  - title: "Members"
-    url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
     
-  - title: "Search"
-    url: /markdown/
+  - title: "Members"
+    url: /year-archive/
+    
+
+    
+  
