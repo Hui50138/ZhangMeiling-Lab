@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ZhangMeiling's Lab"
+title: "Zhang Meiling's Lab in China Agriculture University"
 author_profile: true
 redirect_from: 
   - /about/
