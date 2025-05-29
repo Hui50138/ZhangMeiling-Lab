@@ -28,7 +28,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing China"
   employer         : "China Agriculture University"
-  uri              : https://hui50138.github.io # URL
+  uri              :  # URL
   email            : "ml_zhang@cau.edu.cn" 
 
   # Academic websites
