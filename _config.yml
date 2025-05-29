@@ -265,23 +265,24 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _talks
+      comments: true
+  # _members
   - scope:
       path: ""
-      type: talks
+      type: members
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
 
 
 # Sass/SCSS
