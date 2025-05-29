@@ -1,6 +1,6 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
+permalink: /members/
+title: "Members"
 modified: 2016-06-06
 ---
 
