@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -12,7 +13,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://hui50138.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,12 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Zhang Meiling"
   pronouns         : # example: "she/her"  
-  bio              : "Dr. Meiling Zhang is a Young Principal Investigator and Ph.D. supervisor. She received her Ph.D. from the School of Life Sciences, Peking University in 2020, followed by postdoctoral research at Peking University from 2020 to 2024. In 2024, she joined the Department of Zoology and Animal Physiology, College of Biological Sciences at China Agricultural University as a Principal Investigator through the university's talent recruitment program.
-
-Her research focuses on quantitative omics detection technologies for RNA chemical modifications and the function of modification enzymes. To date, she has published multiple papers as first/co-first author in prestigious journals including Nature Chemical Biology, Nature Immunology, Nature Reviews, Molecular Cell, Cell Research, and Accounts of Chemical Research."
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing China"
   employer         : "China Agriculture University"
-  uri              : https://hui50138.github.io # URL
+  uri              : # URL
   email            : "ml_zhang@cau.edu.cn" 
 
   # Academic websites
@@ -221,10 +220,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
