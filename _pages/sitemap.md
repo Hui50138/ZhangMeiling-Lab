@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+layout: members
+title: "members"
+permalink: /members/
 author_profile: true
 ---
 
