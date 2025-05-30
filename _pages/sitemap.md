@@ -1,6 +1,6 @@
 ---
-layout: members
-title: "members"
+layout: member
+title: "member"
 permalink: /members/
 author_profile: true
 ---
