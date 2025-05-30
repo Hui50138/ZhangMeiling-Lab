@@ -14,3 +14,11 @@ Dr. Meiling Zhang is a Young Principal Investigator and Ph.D. supervisor. She re
       
 
 Her research focuses on quantitative omics detection technologies for RNA chemical modifications and the function of modification enzymes. To date, she has published multiple papers as first/co-first author in prestigious journals including Nature Chemical Biology, Nature Immunology, Nature Reviews, Molecular Cell, Cell Research, and Accounts of Chemical Research.
+
+
+## Our research areas
+1. Development of quantitative sequencing technologies for various novel mRNA chemical modifications.
+
+2. Elucidation of the molecular mechanisms of RNA modifications (such as m6Am, Ψ) in physiological states and disease progression.
+
+3. Investigation of biological regulatory functions of non-coding RNAs (such as tRNA).
