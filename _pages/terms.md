@@ -11,7 +11,7 @@ modified: 2025-05-30
 
 ### Wang Liping
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include
 
 
 ### Liu Chuwei
