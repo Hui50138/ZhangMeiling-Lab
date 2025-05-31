@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2022
+date: 2024-02-17
 venue: 'Methods'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Zhang, M., Sun, H., Li, K., Xiao, Y., and Yi, C. (2022). &quot;m6Am RNA modification detection by m6Am-seq.&quot; <i>Methods 203'
