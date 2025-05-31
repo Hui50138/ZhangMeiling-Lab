@@ -19,3 +19,6 @@ Beyond m6A, modifications such as pseudouridine (Ψ), N6,2'-O-dimethyladenosine 
 
 3. Investigation of biological regulatory functions of non-coding RNAs (such as tRNA).
 
+<figure>
+  <img src="../assets/images/Research guide.jpg" alt="Research Guide" style="width: 100%; border-radius: 10px;">
+</figure>
