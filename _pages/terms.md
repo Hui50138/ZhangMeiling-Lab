@@ -10,7 +10,7 @@ modified: 2025-05-30
 ## Our members
 
 ### Wang Liping
-<img src="/assets/images/members/wangliping.jpg" style="width: 200px; border-radius: 50%;" align="left" hspace="20" vspace="10">
+<img src="/assets/images/members/Wangliping.jpg" style="width: 200px; border-radius: 50%;" align="left" hspace="20" vspace="10">
 
 13955672307@163.com
 
@@ -20,20 +20,26 @@ modified: 2025-05-30
 myrtleliu@foxmail.com
 
 ### Hong Dajun
+<img src="/assets/images/members/Hongdajun.jpg" style="width: 200px; border-radius: 50%;" align="left" hspace="20" vspace="10">
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+dachunhorng@gmail.com
 
 ### Hui Quanhao
+<img src="/assets/images/members/Huiquanhao.jpg" style="width: 200px; border-radius: 50%;" align="right" hspace="20" vspace="10">
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.### Hong Dajun
+2023302050138@cau.edu.cn
+
 
 ### Teng Yu`ang
+<img src="/assets/images/members/Tengyuang" style="width: 200px; border-radius: 50%;" align="left" hspace="20" vspace="10">
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.### Hong Dajun
+19861368534@163.com
 
 ### Li Tao
+<img src="/assets/images/members/Litao.jpg" style="width: 200px; border-radius: 50%;" align="right" hspace="20" vspace="10">
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.### Hong Dajun
+lt0506036666@qq.com
+
 
 
 
