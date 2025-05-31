@@ -8,8 +8,6 @@ modified: 2025-05-30
 {% include toc %}
 
 
-# Our members
-
 <div class="member-container" style="margin-bottom: 40px;">
   <div style="width: 70%; float: left;">
     <h2>Wang Liping</h2>
