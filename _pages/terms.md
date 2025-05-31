@@ -14,10 +14,10 @@ modified: 2025-05-30
 
 13955672307@163.com
 
-
 ### Liu Chuwei
+<img src="/assets/images/members/Liuchuwei.jpg" style="width: 200px; border-radius: 50%;" align="right" hspace="20" vspace="10">
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+myrtleliu@foxmail.com
 
 ### Hong Dajun
 
