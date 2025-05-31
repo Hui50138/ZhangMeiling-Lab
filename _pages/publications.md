@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Selected Publications
+Luo N. #, Huang Q. #, **Zhang M.** #, Yi C. (2025). Functions and therapeutic applications of pseudouridylation. Nature Reviews Molecular Cell Biology. 10.1038/s41580-025-00852-1.
+
+Xiang B. #, **Zhang M.** #, Li K. #, Zhang Z. #, Liu Y., Gao M., Wang X., Xiao X., Sun Y., He C., Shi J., Fan H., Xing X., Xu G., Yao Y., Chen G., Zhu H., Yi C., Zhang J. (2025). The epitranscriptional factor PCIF1 orchestrates CD8(+) T cell ferroptosis and activation to control antitumor immunity. Nature Immunology 26, 252-264.
 
 **Zhang, M.**#, Zhang, X.#, Ma, Y., and Yi, C. (2024). New directions for Psi and m(1)A decoding in mRNA: deciphering the stoichiometry and function. RNA (New York, N.Y.) 30, 537-547. 10.1261/rna.079950.124.
 
@@ -15,11 +18,14 @@ author_profile: true
 
 **Zhang, M.**#, Sun, H.#, Li, K., Xiao, Y., and Yi, C. (2022). m6Am RNA modification detection by m6Am-seq. Methods 203, 242-248.
 
+Lu, B.#, Dong, L.#, Yi, D.#, **Zhang, M.**#, Zhu, C., Li, X., and Yi, C. (2020). Transposase-assisted tagmentation of RNA/DNA hybrid duplexes. Elife 9, e54919.
+
+Sun, H.#, **Zhang, M.**#, Li, K., Bai, D., and Yi, C. (2019). Cap-specific, terminal N 6-methylation by a mammalian m6Am methyltransferase. Cell research 29, 80-82.
+
+Li, X.#, Xiong, X.#, **Zhang, M.**#, Wang, K.#, Chen, Y.#, Zhou, J., Mao, Y., Lv, J., Yi, D., and Chen, X.-W. (2017). Base-resolution mapping reveals distinct m1A methylome in nuclear-and mitochondrial-encoded transcripts. Molecular cell 68, 993-1005. e1009.
+
+
 ## Other Publications
-
-Luo N. #, Huang Q. #, **Zhang M.** #, Yi C. (2025). Functions and therapeutic applications of pseudouridylation. Nature Reviews Molecular Cell Biology. 10.1038/s41580-025-00852-1.
-
-Xiang B. #, **Zhang M.** #, Li K. #, Zhang Z. #, Liu Y., Gao M., Wang X., Xiao X., Sun Y., He C., Shi J., Fan H., Xing X., Xu G., Yao Y., Chen G., Zhu H., Yi C., Zhang J. (2025). The epitranscriptional factor PCIF1 orchestrates CD8(+) T cell ferroptosis and activation to control antitumor immunity. Nature Immunology 26, 252-264.
 
 Li, X.#, Yan, Z.#, **Zhang, M.**, Wang J., Xin P., Cheng S., Kou L., Zhang X., Wu S., Chu J., Yi C., Ye K., Wang B., Li J. (2023). SnoRNP is essential for thermospermine-mediated development in Arabidopsis thaliana. Science China Life Sciences 66, 2-11.
 
@@ -29,9 +35,5 @@ Lu, B.#, Yan, Y.#, Dong, L.#, Han, L.#, Liu, Y.#, Yu, J., Chen, J., Yi, D., **Zh
 
 Sun, H.#, Li, K.#, Zhang, X., Liu, J.e., **Zhang, M.**, Meng, H., and Yi, C. (2021). m6Am-seq reveals the dynamic m6Am methylation in the human transcriptome. Nature Communications 12, 4778.
 
-Lu, B.#, Dong, L.#, Yi, D.#, **Zhang, M.**#, Zhu, C., Li, X., and Yi, C. (2020). Transposase-assisted tagmentation of RNA/DNA hybrid duplexes. Elife 9, e54919.
 
-Sun, H.#, **Zhang, M.**#, Li, K., Bai, D., and Yi, C. (2019). Cap-specific, terminal N 6-methylation by a mammalian m6Am methyltransferase. Cell research 29, 80-82.
-
-Li, X.#, Xiong, X.#, **Zhang, M.**#, Wang, K.#, Chen, Y.#, Zhou, J., Mao, Y., Lv, J., Yi, D., and Chen, X.-W. (2017). Base-resolution mapping reveals distinct m1A methylome in nuclear-and mitochondrial-encoded transcripts. Molecular cell 68, 993-1005. e1009.
 
