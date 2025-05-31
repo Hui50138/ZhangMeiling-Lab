@@ -22,3 +22,7 @@ Beyond m6A, modifications such as pseudouridine (Ψ), N6,2'-O-dimethyladenosine 
 <figure>
   <img src="/assets/images/members/Research.jpg" alt="Research" style="width: 100%; border-radius: 10px;">
 </figure>
+
+<figure>
+  <img src="{{ site.url }}/assets/images/members/Research.jpg" alt="Research" style="width: 100%; border-radius: 10px;">
+</figure>
