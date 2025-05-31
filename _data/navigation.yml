@@ -1,16 +1,16 @@
 main:
   - title: "Research"
     url: /research/
+    
+  - title: "Members"
+    url: /members/
   
   - title: "Publications"
     url: /publications/
 
   - title: "CV"
     url: /cv/
-    
-  - title: "Members"
-    url: /members/
-    
+
 
     
   
