@@ -10,8 +10,9 @@ modified: 2025-05-30
 ## Our members
 
 ### Wang Liping
+<img src="/assets/images/members/wangliping.jpg" style="width: 200px; border-radius: 50%;" align="left" hspace="20" vspace="10">
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include
+13955672307@163.com
 
 
 ### Liu Chuwei
