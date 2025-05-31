@@ -20,7 +20,7 @@ modified: 2025-05-30
 myrtleliu@foxmail.com
 
 ### Hong Dajun
-<img src="/assets/images/members/Hongdajun.jpg" style="width: 200px; border-radius: 50%;" align="left" hspace="20" vspace="10">
+<img src="/assets/images/members/Hongdajun.JPG" style="width: 200px; border-radius: 50%;" align="left" hspace="20" vspace="10">
 
 dachunhorng@gmail.com
 
@@ -31,12 +31,12 @@ dachunhorng@gmail.com
 
 
 ### Teng Yu`ang
-<img src="/assets/images/members/Tengyuang" style="width: 200px; border-radius: 50%;" align="left" hspace="20" vspace="10">
+<img src="/assets/images/members/Tengyuang.jpg" style="width: 200px; border-radius: 50%;" align="left" hspace="20" vspace="10">
 
 19861368534@163.com
 
 ### Li Tao
-<img src="/assets/images/members/Litao.jpg" style="width: 200px; border-radius: 50%;" align="right" hspace="20" vspace="10">
+<img src="/assets/images/members/Litao.jpeg" style="width: 200px; border-radius: 50%;" align="right" hspace="20" vspace="10">
 
 lt0506036666@qq.com
 
