@@ -7,6 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
+RNA modifications play a critical role in regulating RNA processing and represent a new layer of post-transcriptional gene regulation. These chemical modifications can modulate RNA secondary structure, splicing, stability, and translation efficiency, thereby influencing a wide range of physiological and pathological processes, including embryonic development, tissue differentiation, and tumorigenesis.
+
+Beyond m6A, modifications such as pseudouridine (Ψ), N6,2'-O-dimethyladenosine (m6Am), and N1-methyladenosine (m1A) have garnered considerable attention due to their widespread occurrence in RNA and promising biomedical applications. We develop and employ high-throughput sequencing approaches to investigate the regulation and functional roles of these RNA modifications.
+
+
 ## Our research areas
 1. Development of quantitative sequencing technologies for various novel mRNA chemical modifications.
 
