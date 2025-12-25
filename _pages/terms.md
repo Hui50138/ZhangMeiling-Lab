@@ -46,10 +46,10 @@ modified: 2025-12-25
 <div class="member-container" style="margin-bottom: 40px;">
   <div style="width: 70%; float: left;">
     <h2>Wenjing He</h2>
-    <p><strong>Email:</strong> wenjing_he@example.com</p>
+    <p><strong>Email:</strong> 2906846292@qq.com</p>
   </div>
   <div style="width: 30%; float: right; text-align: right;">
-    <img src="../assets/images/members/placeholder.jpg" alt="Wenjing He" style="width: 200px; border-radius: 10px;">
+    <img src="../assets/images/members/hewenjing.jpg" alt="Wenjing He" style="width: 200px; border-radius: 10px;">
   </div>
   <div style="clear: both;"></div>
 </div>
@@ -95,10 +95,10 @@ modified: 2025-12-25
 <div class="member-container" style="margin-bottom: 40px;">
   <div style="width: 70%; float: left;">
     <h2>Yiping Han</h2>
-    <p><strong>Email:</strong> yiping_han@example.com</p>
+    <p><strong>Email:</strong> 2024333010118@cau.edu.cn</p>
   </div>
   <div style="width: 30%; float: right; text-align: right;">
-    <img src="../assets/images/members/placeholder.jpg" alt="Yiping Han" style="width: 200px; border-radius: 10px;">
+    <img src="../assets/images/members/hanyiping.jpg" alt="Yiping Han" style="width: 200px; border-radius: 10px;">
   </div>
   <div style="clear: both;"></div>
 </div>
