@@ -34,11 +34,11 @@ modified: 2025-12-25
 <!-- 新增研究生 -->
 <div class="member-container" style="margin-bottom: 40px;">
   <div style="width: 70%; float: left;">
-    <h2>Jinghan Liang</h2>
+    <h2>Jinghan Zhou</h2>
     <p><strong>Email:</strong> jms@cau.edu.cn </p>
   </div>
   <div style="width: 30%; float: right; text-align: right;">
-    <img src="../assets/images/members/liangjinghan.png" alt="Jinghan Liang" style="width: 200px; border-radius: 10px;">
+    <img src="../assets/images/members/zhoujinghan.png" alt="Jinghan Zhou" style="width: 200px; border-radius: 10px;">
   </div>
   <div style="clear: both;"></div>
 </div>
@@ -106,10 +106,10 @@ modified: 2025-12-25
 <div class="member-container" style="margin-bottom: 40px;">
   <div style="width: 70%; float: left;">
     <h2>Sihan Teng</h2>
-    <p><strong>Email:</strong> sihan_teng@example.com</p>
+    <p><strong>Email:</strong> tengsh0911@qq.com</p>
   </div>
   <div style="width: 30%; float: right; text-align: right;">
-    <img src="../assets/images/members/placeholder.jpg" alt="Sihan Teng" style="width: 200px; border-radius: 10px;">
+    <img src="../assets/images/members/tengsihan.jpg" alt="Sihan Teng" style="width: 200px; border-radius: 10px;">
   </div>
   <div style="clear: both;"></div>
 </div>
