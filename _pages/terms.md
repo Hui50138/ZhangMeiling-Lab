@@ -38,7 +38,7 @@ modified: 2025-12-25
     <p><strong>Email:</strong> jms@cau.edu.cn </p>
   </div>
   <div style="width: 30%; float: right; text-align: right;">
-    <img src="../assets/images/屏幕截图 2025-12-25 120934.png" alt="Jinghan Liang" style="width: 200px; border-radius: 10px;">
+    <img src="../assets/images/members/liangjinghan.png" alt="Jinghan Liang" style="width: 200px; border-radius: 10px;">
   </div>
   <div style="clear: both;"></div>
 </div>
