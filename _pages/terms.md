@@ -38,7 +38,7 @@ modified: 2025-12-25
     <p><strong>Email:</strong> jms@cau.edu.cn </p>
   </div>
   <div style="width: 30%; float: right; text-align: right;">
-    <img src="../assets/images/members/微信图片_20260122195504_811_292.jpg" alt="Jinghan Zhou" style="width: 200px; border-radius: 10px;">
+    <img src="../assets/images/members/周敬涵_20260122212753_142_839.jpg" alt="Jinghan Zhou" style="width: 200px; border-radius: 10px;">
   </div>
   <div style="clear: both;"></div>
 </div>
